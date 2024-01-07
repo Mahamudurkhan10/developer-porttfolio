@@ -1,3 +1,7 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 /*common shared styles*/
 body {
     font-family: 'Open Sans', sans-serif;
@@ -146,4 +150,7 @@ main{
     font-size: 20px;
     font-weight: 700;
     color: #474747;
+}
+#what-i-do-description{
+    padding: 30px 150px;
 }
